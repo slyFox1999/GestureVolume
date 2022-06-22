@@ -1,6 +1,6 @@
 comtypes==1.1.10
 mediapipe==0.8.6
-numpy==1.21.1
+numpy==1.22.0
 opencv-contrib-python==4.5.3.56
 Pillow==9.0.1
 pycaw==20181226
